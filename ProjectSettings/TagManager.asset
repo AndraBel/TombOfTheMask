@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walls
+  - Spikes
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Character
+  - Walls
+  - Spikes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 719496309
+    locked: 0
+  - name: water
+    uniqueID: 1084858849
+    locked: 0
+  - name: Foreground
+    uniqueID: 2059987665
+    locked: 0
+  - name: Spikes
+    uniqueID: 988224925
+    locked: 0
+  - name: Finish
+    uniqueID: 202704639
+    locked: 0
